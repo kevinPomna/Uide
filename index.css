@@ -1,0 +1,25 @@
+.encabezados{
+background-color: blue;
+text-align: justify;
+font-size: medium;
+}
+.encabezados2{
+    background-color: yellow;
+    text-align: justify;
+    font-size: medium;
+}
+.encabezados3{
+    background-color: red;
+    text-align: justify;
+    font-size: medium;
+}
+body{
+    background-image: url(binario.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    text-align: center;
+  }
+}
+  
